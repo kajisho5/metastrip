@@ -1,2 +1,15 @@
-# metastrip
-Strip EXIF and GPS metadata from photos before sharing, on Mac.
+# metastrip（仮名）
+
+**Exif削除**
+
+## 課題（Mac標準の不便）
+写真共有前に位置情報を消したいが、標準GUIに簡単な方法がない。
+
+## 計画している機能
+- ドラッグ&ドロップで一括削除
+- 削除項目の確認表示
+- 元ファイル非破壊（コピー出力）
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
